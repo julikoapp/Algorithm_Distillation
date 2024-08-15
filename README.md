@@ -1,6 +1,6 @@
 # Algorithm_Distillation
 (Tried to do) An implementation for Laskin, Michael, et al. "In-context reinforcement learning with algorithm distillation." arXiv preprint arXiv:2210.14215 (2022).
-
+[Note] All the work is submitted before midnight on 15.08.2024 (GMT+3)
 # Link to the Report
 
 
